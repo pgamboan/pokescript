@@ -20,7 +20,7 @@ sudo apt update
 sudo apt install curl jq -y
 ```
 
-## 🚀 Cómo Ejecutarlo
+## 🚀 Instrucciones
 
 1. Clona este repositorio en tu máquina local:
    ```bash
