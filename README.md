@@ -55,7 +55,3 @@ sudo apt install curl jq -y
 
 ## 🎓 Actividad
 Este script fue desarrollado como parte del curso de **DevOps** de la **Universidad Autónoma de Yucatán (UADY)**.
-
-## 📜 Licencia
-Este proyecto es de uso libre. ¡Siéntete libre de modificarlo y mejorarlo! 🚀
-
