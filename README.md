@@ -1,5 +1,9 @@
 # Pokescript
 
+## 🎓 Actividad
+Este script fue desarrollado como parte del curso de **DevOps** de la **Universidad Autónoma de Yucatán (UADY)**.
+
+## 📖 Descripción
 Este es un script en Bash que consulta la API de PokéAPI para obtener información de un Pokémon específico. 
 El script muestra en pantalla los datos del Pokémon y los guarda en un archivo CSV para futuras referencias.
 
@@ -49,9 +53,6 @@ sudo apt install curl jq -y
    25,pikachu,60,4,35
    ```
 
-## 📖 Notas
+## Notas
 - Si el Pokémon no existe o el nombre está mal escrito, el script mostrará un error.
 - El archivo `pokemon_data.csv` **no se borra**, sino que se va actualizando con cada consulta.
-
-## 🎓 Actividad
-Este script fue desarrollado como parte del curso de **DevOps** de la **Universidad Autónoma de Yucatán (UADY)**.
